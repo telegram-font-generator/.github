@@ -14,7 +14,9 @@ Want to make your Telegram messages stand out? A **Telegram font generator** let
 ➤ ►🌍📺📱👉 [Creative Fonts for Telegram Chats](https://www.cooltextmaker.com/)  
 ➤ ►🌍📺📱👉 [Unique Fonts for Telegram Channels](https://www.cooltextmaker.com/)  
 ➤ ►🌍📺📱👉 [Custom Fonts for Telegram Messages](https://www.cooltextmaker.com/)  
+
 ---
+
 ## What Is a Telegram Font Generator?  
 A **Telegram font generator** is an online tool that transforms plain text into stylish and creative fonts. It allows you to stand out in Telegram chats by adding a touch of creativity to your messages. You can use it to make bold text, cursive fonts, or even cool symbols.  
 
